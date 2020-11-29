@@ -67,7 +67,7 @@ void loop() {
 
   } else {
     // turn LED off:
-    digitalWrite(ledPin, HIGH);
+    digitalWrite(ledPin, LOW);
   }
 }
 
