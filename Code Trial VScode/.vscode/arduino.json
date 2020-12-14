@@ -1,0 +1,6 @@
+{
+    "sketch": "CPU_Fan_controller.ino",
+    "port": "/dev/ttyACM0",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII"
+}

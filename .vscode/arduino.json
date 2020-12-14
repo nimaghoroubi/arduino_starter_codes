@@ -2,5 +2,5 @@
     "port": "/dev/ttyACM0",
     "programmer": "AVRISP mkII",
     "board": "arduino:avr:uno",
-    "sketch": "ButtonToFade/ButtonToFade.ino"
+    "sketch": "Sevo/servo.ino"
 }
